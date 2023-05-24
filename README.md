@@ -1,5 +1,9 @@
-### Hi there 👋
+### Quien soy:
 
+Mi nombre es Francisco Javier y podemos decir que soy un **Ingeniero Informático *frustrado***.
+- Actualmente estoy retomando/aprendiendo: HTML, CSS, Javascript,Python
+
+Durante más de 15 años he estado ejerciendo como **Helpdesk**.
 <!--
 **fjcargom/fjcargom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
